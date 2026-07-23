@@ -4,3 +4,5 @@ The program uses TCP networking to manage all connections. Port forwarding is re
 
 Download the latest version of A-comms here:
 [Download the latest release](../../releases/latest)
+
+![A-comms screenshot](assets/screenshot.png)
