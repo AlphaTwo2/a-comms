@@ -52,7 +52,7 @@ Install the required library:
 pip install customtkinter
 ```
 ### Main.py
-[⬇️ Download source code (.zip)](https://github.com/AlphaTwo2/a-comms/archive/refs/tags/v1.0.0.zip)
+[⬇️ Download source code](https://github.com/AlphaTwo2/a-comms/archive/refs/tags/v1.0.0.zip)
 
 
 ## Credits
