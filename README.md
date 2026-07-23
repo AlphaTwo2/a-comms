@@ -50,3 +50,12 @@ Install the required library:
 
 ```bash
 pip install customtkinter
+```
+
+## Credits
+
+This project uses:
+
+- CustomTkinter by Tom Schimansky  
+  Licensed under the MIT License.
+  https://github.com/TomSchimansky/CustomTkinter
